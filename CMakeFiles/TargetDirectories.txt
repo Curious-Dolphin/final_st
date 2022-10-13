@@ -1,0 +1,3 @@
+/home/sitec-work/Desktop/final_st/CMakeFiles/rebuild_cache.dir
+/home/sitec-work/Desktop/final_st/CMakeFiles/edit_cache.dir
+/home/sitec-work/Desktop/final_st/CMakeFiles/seam_track_v2.dir
